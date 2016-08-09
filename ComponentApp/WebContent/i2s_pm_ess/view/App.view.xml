@@ -1,0 +1,7 @@
+<mvc:View
+  controllerName="com.inn2soft.pm.ess.controller.App"
+  xmlns="sap.m"
+  xmlns:mvc="sap.ui.core.mvc"
+  displayBloc="true">
+  <App id="app"/>
+</mvc:View>
